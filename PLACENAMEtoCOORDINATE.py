@@ -1,3 +1,6 @@
+# --＜注意＞----------------------------------
+# pip install requestsでインストールが必要
+# -------------------------------------------
 import requests
 
 def get_coordinates(address):
